@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Rates>
+  <Rate rtOrigin="11" rtDestination="16" rtPrice="1,90"></Rate>
+  <Rate rtOrigin="11" rtDestination="17" rtPrice="1,70"></Rate>
+  <Rate rtOrigin="11" rtDestination="18" rtPrice="0,90"></Rate>
+  <Rate rtOrigin="16" rtDestination="11" rtPrice="2,90"></Rate>
+  <Rate rtOrigin="17" rtDestination="11" rtPrice="2,70"></Rate>
+  <Rate rtOrigin="18" rtDestination="11" rtPrice="1,90"></Rate>
+</Rates>

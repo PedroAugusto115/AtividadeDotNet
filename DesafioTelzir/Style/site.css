@@ -1,0 +1,223 @@
+html, body, h1, form, fieldset, legend, ol, li {
+	margin: 0;
+	padding: 0;
+}
+body {
+	background: #E7DDDD;
+	color: #111111;
+	font-family: sans-serif;
+}
+
+form#calculate {
+	background: #b6b7bc;
+	padding: 20px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px
+}
+
+form#calculate fieldset {
+	border: none;
+	margin-bottom: 10px;
+}
+form#calculate fieldset:last-of-type {
+	margin-bottom: 0;
+}
+
+form#calculate legend {
+	color: #3C719B;
+	font-size: 16px;
+	font-weight: bold;
+	padding-bottom: 10px;
+	text-shadow: 1px 0 1px #7B7E84;
+}
+
+form#calculate fieldset fieldset legend {
+	color: #111111;
+	font-size: 13px;
+	font-weight: normal;
+	padding-bottom: 0;
+}
+
+form#calculate ol li {
+	background: #b9cf6a;
+	background: rgba(255,255,255,.3);
+	border-color: #e3ebc3;
+	border-color: rgba(255,255,255,.6);
+	border-style: solid;
+	border-width: 2px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+	line-height: 30px;
+	list-style: none;
+	padding: 5px 10px;
+	margin-bottom: 2px;
+}
+form#calculate ol ol li {
+	background: none;
+	border: none;
+	float: left;
+}
+
+form#calculate label {
+	float: left;
+	font-size: 13px;
+	width: 135px;
+}
+form#calculate fieldset fieldset label {
+	background:none no-repeat left 50%;
+	line-height: 20px;	
+}
+form#calculate fieldset fieldset label:hover {
+	cursor: pointer;
+}
+
+form#calculate input:not([type=radio]),
+form#calculate textarea {
+	background: #ffffff;
+	border: none;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	font: sans-serif italic 13px;
+	outline: none;
+	padding: 5px;
+	width: 200px;
+}
+form#calculate select {
+	background: #ffffff;
+	border: none;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	font: sans-serif italic 13px;
+	outline: none;
+	padding: 5px;
+	width: 200px;
+}
+form#calculate input:not([type=submit]):focus,
+form#calculate textarea:focus {
+	background: #eaeaea;
+}
+form#calculate input[type=radio] {
+	float: left;
+	margin-right: 5px;
+}
+
+form#calculate button {
+	background: #384313;
+	border: none;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-khtml-border-radius: 20px;
+	border-radius: 20px;
+	color: #ffffff;
+	display: block;
+	font: 18px Georgia, "Times New Roman", Times, serif;
+	letter-spacing: 1px;
+	margin: auto;
+	padding: 7px 25px;
+	text-shadow: 0 1px 1px #000000;
+	text-transform: uppercase;
+}
+form#calculate button:hover {
+	background: #1e2506;
+	cursor: pointer;
+}
+/* HEADINGS   
+----------------------------------------------------------*/
+
+h1, h2, h3, h4, h5, h6
+{
+    font-size: 1.5em;
+    color: #666666;
+    font-variant: small-caps;
+    text-transform: none;
+    font-weight: 200;
+    margin-bottom: 0px;
+}
+
+h1
+{
+    font-size: 1.6em;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+h2
+{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+
+.page
+{
+    width: 860px;
+    background-color: #fff;
+    margin: 20px auto 0px auto;
+    border: 1px solid #496077;
+    border-radius: 5px;
+}
+
+.header
+{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    background: #4b6c9e;
+    width: 100%;
+}
+
+.header h1
+{
+    font-weight: 700;
+    margin: 0px;
+    padding: 0px 0px 0px 20px;
+    color: #f9f9f9;
+    border: none;
+    line-height: 2em;
+    font-size: 2em;
+}
+
+.main
+{
+    padding: 0px 12px;
+    margin: 12px 8px 8px 8px;
+    min-height: 420px;
+}
+
+.leftCol
+{
+    padding: 6px 0px;
+    margin: 12px 8px 8px 8px;
+    width: 200px;
+    min-height: 200px;
+}
+.footer
+{
+    color: #4e5766;
+    padding: 8px 0px 0px 0px;
+    margin: 0px auto;
+    text-align: center;
+    line-height: normal;
+}
+
+.title
+{
+    display: block;
+    float: left;
+    text-align: left;
+    width: auto;
+}
+
+.titleDisplay
+{
+    font-size: 1.1em;
+    display: block;
+    text-align: right;
+    padding: 35px;
+    color: White;
+}

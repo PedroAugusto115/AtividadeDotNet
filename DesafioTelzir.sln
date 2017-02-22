@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTelzir", "DesafioTelzir\DesafioTelzir.csproj", "{004EDCA0-C43E-4BF3-88F2-893F2141DDDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTelzirTestUnit", "DesafioTelzirTestUnit\DesafioTelzirTestUnit.csproj", "{B8EF2937-E534-4532-AC73-3BBE47C900AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{004EDCA0-C43E-4BF3-88F2-893F2141DDDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{004EDCA0-C43E-4BF3-88F2-893F2141DDDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{004EDCA0-C43E-4BF3-88F2-893F2141DDDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{004EDCA0-C43E-4BF3-88F2-893F2141DDDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EF2937-E534-4532-AC73-3BBE47C900AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8EF2937-E534-4532-AC73-3BBE47C900AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8EF2937-E534-4532-AC73-3BBE47C900AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8EF2937-E534-4532-AC73-3BBE47C900AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
