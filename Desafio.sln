@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTelzir", "DesafioTelzir\DesafioTelzir.csproj", "{004EDCA0-C43E-4BF3-88F2-893F2141DDDE}"
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desafio", "DesafioTelzir\Desafio.csproj", "{004EDCA0-C43E-4BF3-88F2-893F2141DDDE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioTelzirTestUnit", "DesafioTelzirTestUnit\DesafioTelzirTestUnit.csproj", "{B8EF2937-E534-4532-AC73-3BBE47C900AD}"
 EndProject

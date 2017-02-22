@@ -1,8 +1,8 @@
-******************************
-WEB APPLICATION DESAFIO TELZIR
-******************************
+***********************
+WEB APPLICATION DESAFIO
+***********************
 
-1. O projeto foi desenvolvido em .NET MVC 4 utilizando Visual Studio 2012 Ultimate;
+1. O projeto foi desenvolvido em .NET MVC 4 utilizando Visual Studio 2015;
 2. Abrir o projeto com uma versão mais recente do Visual Studio provocará a atualização do arquivo .sln (o que poderá demorar um pouco)
 3. Os casos de teste foram realizados utilizando NUnit (executável encontra-se no projeto);
 4. A plataforma foi executada em IIS Express (Nativo Visual Studio) e IIS 7;

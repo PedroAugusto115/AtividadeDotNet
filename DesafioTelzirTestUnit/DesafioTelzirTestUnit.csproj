@@ -46,9 +46,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\DesafioTelzir\DesafioTelzir.csproj">
+    <ProjectReference Include="..\DesafioTelzir\Desafio.csproj">
       <Project>{004edca0-c43e-4bf3-88f2-893f2141ddde}</Project>
-      <Name>DesafioTelzir</Name>
+      <Name>Desafio</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
